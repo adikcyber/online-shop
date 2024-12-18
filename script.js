@@ -7,6 +7,7 @@ const products = [
     { id: 'M24680', name: 'Smart Soat', price: 800000, image: 'smart-watch.jpg', category: 'Moda' },
     { id: 'S35791', name: 'Yoga Mati', price: 180000, image: 'yoga-mat.jpg', category: 'Sport' },
     { id: 'B46802', name: 'Yuz Tozalash Vositasi', price: 120000, image: 'face-cleanser.jpg', category: 'Go\'zallik' },
+    { id: 'B46803', name: 'Xiaomi Mi11', price: 5200000, image: 'face-cleanser.jpg', category: 'Elektronika' },
 ];
 
 const productGrid = document.getElementById('productGrid');
